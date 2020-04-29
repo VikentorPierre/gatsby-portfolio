@@ -1,0 +1,13 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/apex.png": "static/apex-e63f45b63511031847fe26b050ae7474.png",
+  "static/covid.png": "static/covid-ccc0f137cabbe7fc031f4a55f2207ae2.png",
+  "static/git.png": "static/git-9e4f61c77a287b620a38c14a8870fbcf.png",
+  "static/js.png": "static/js-7632c7822795550ec5eac7a7a8ffcfb6.png",
+  "static/php.png": "static/php-1befcc4ce3ff6c0fcd919302622ca38c.png",
+  "static/reacticon.png": "static/reacticon-ead37a929e598d0f2d3b87f0aff89f1b.png",
+  "static/simpleflix.png": "static/simpleflix-14598618eeb8f953e65367c610fed361.png",
+  "static/vespo.png": "static/vespo-6d0f2c886806819092229cf80ec91ad2.png",
+  "static/wordpress.png": "static/wordpress-f4be0cc0f6dae8a6151deff12c54d6bd.png"
+}
