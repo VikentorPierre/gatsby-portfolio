@@ -9,6 +9,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: ` mosdevtech vikentor portfolio`,
   },
+  pathPrefix: '/gatsby-portfolio',
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
